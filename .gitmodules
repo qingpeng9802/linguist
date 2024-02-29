@@ -383,6 +383,9 @@
 [submodule "vendor/grammars/cmake.tmbundle"]
 	path = vendor/grammars/cmake.tmbundle
 	url = https://github.com/textmate/cmake.tmbundle
+[submodule "vendor/grammars/common-lisp-tmlanguage"]
+	path = vendor/grammars/common-lisp-tmlanguage
+	url = https://github.com/qingpeng9802/common-lisp-tmlanguage.git
 [submodule "vendor/grammars/conllu-linguist-grammar"]
 	path = vendor/grammars/conllu-linguist-grammar
 	url = https://github.com/odanoburu/conllu-linguist-grammar
@@ -839,9 +842,6 @@
 [submodule "vendor/grammars/liquid-tm-grammar"]
 	path = vendor/grammars/liquid-tm-grammar
 	url = https://github.com/Shopify/liquid-tm-grammar.git
-[submodule "vendor/grammars/lisp.tmbundle"]
-	path = vendor/grammars/lisp.tmbundle
-	url = https://github.com/textmate/lisp.tmbundle
 [submodule "vendor/grammars/llvm.tmbundle"]
 	path = vendor/grammars/llvm.tmbundle
 	url = https://github.com/whitequark/llvm.tmbundle
